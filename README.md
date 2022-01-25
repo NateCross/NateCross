@@ -1,7 +1,11 @@
+<p align = "center">
+  
 # :white_flower: Hi, Hello, and Greetings :white_flower:
 ![Nate's Github Stats](https://github-readme-stats.vercel.app/api?username=NateCross&theme=omni&show_icons=true)
 
 [![Nate's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NateCross&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+ 
+</p>
 
 <!--
 **NateCross/NateCross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
